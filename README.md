@@ -33,7 +33,7 @@ Opens a python program using your custom voice command
 ```pip install pyttsx```
 
 
-**Testing SpeechRecogntion : **
+**Testing SpeechRecogntion :**
   
   ```python -m speech_recognition```
   
@@ -57,7 +57,9 @@ In the folder, run
 **Pyaudio:**
 	
 ```sudo apt-get install python-pyaudio python3-pyaudio```
-	(OR)
+
+(OR)
+
 ```sudo apt-get install portaudio19-dev python-all-dev python3-all-dev && sudo pip3 install pyaudio```
 
 **Python Text to Speech:**
@@ -76,14 +78,14 @@ In the folder, run
 
  1.SpeechRecognition:
  
-	 ```pip install SpeechRecognition```
+ ```pip install SpeechRecognition```
 		
   (OR)
 
 Otherwise, download the source distribution from PyPI, and extract the archive.
 In the folder, run 
  
-	```python setup.py install.```
+```python setup.py install.```
 
 2.Pyaudio:
 	
