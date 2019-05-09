@@ -8,16 +8,12 @@ Opens a python program using your custom voice command
   **Requirements installation:**
 
   ```pip install SpeechRecogntion```
-
-  > For mic
   
   ```pip install pyaudio```
-
-  >For text to speech
   
   ```pip install pyttsx3```
 
-  >Testing SpeechRecogntion
+  **Testing SpeechRecognition :**
   
   ```python -m speech_recognition```
   
@@ -29,15 +25,11 @@ Opens a python program using your custom voice command
   
   ```pip install monotonic```
   
-  > For mic
-  
   ```pip install pyaudio```
-
-  >For text to speech
   
   ```pip install pyttsx```
 
-  >Testing SpeechRecogntion
+  **Testing SpeechRecogntion : **
   
   ```python -m speech_recognition```
   
