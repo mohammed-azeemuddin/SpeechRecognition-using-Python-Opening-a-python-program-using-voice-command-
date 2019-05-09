@@ -3,17 +3,17 @@ Opens a python program using your custom voice command
 
 ### Windows:
 
-**Python 3.3+ :** 
+  **Python 3.3+ :** 
 
-**Requirements installation:**
+  **Requirements installation:**
 
-```pip install SpeechRecogntion```
+  ```pip install SpeechRecogntion```
 
-```pip install pyaudio(For mic)```
+  ```pip install pyaudio(For mic)```
 
-```pip install pyttsx3(For text to speech)```
+  ```pip install pyttsx3(For text to speech)```
 
-**Testing SpeechRecogntion:**
-```python -m speech_recognition```
+  **Testing SpeechRecogntion:**
+  ```python -m speech_recognition```
 
 
