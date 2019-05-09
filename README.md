@@ -43,8 +43,7 @@ Opens a python program using your custom voice command
  
  Requirements installation:
 
- 1.SpeechRecognition:
- 
+ **SpeechRecognition:**
  
  ```pip3 install SpeechRecognition```
 		
@@ -53,17 +52,15 @@ Opens a python program using your custom voice command
 Otherwise, download the source distribution from PyPI, and extract the archive.
 In the folder, run 
  
- 
  ```python3 setup.py install.```
 
-2.Pyaudio:
+**Pyaudio:**
 	
- ```sudo apt-get install python-pyaudio python3-pyaudio```
+```sudo apt-get install python-pyaudio python3-pyaudio```
 	(OR)
-
 ```sudo apt-get install portaudio19-dev python-all-dev python3-all-dev && sudo pip3 install pyaudio```
 
-3.Python Text to Speech
+**Python Text to Speech:**
 	
  ```pip3 install pyttsx3(For text to speech)```
 
