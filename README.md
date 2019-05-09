@@ -115,7 +115,7 @@ In the folder, run
    
    (Image)
    
-## Making modifications:**
+## Making modifications:
 
    > In speak_here_first.py
    
