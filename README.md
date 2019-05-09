@@ -9,27 +9,27 @@ Opens a python program using your custom voice command
 
   ```pip install SpeechRecogntion```
   
-  ```pip install pyaudio```
+ ```pip install pyaudio```
   
-  ```pip install pyttsx3```
+ ``` pip install pyttsx3```
 
-  **Testing SpeechRecognition :**
+**Testing SpeechRecognition :**
   
   ```python -m speech_recognition```
   
   **Python 2.6,2.7 :**
  
   **Requirements installation:**
+```pip install SpeechRecogntion```
+     
+    ``` pip install monotonic```
+  
+    ``` pip install pyaudio```
+  
+     ```pip install pyttsx```
 
-  ```pip install SpeechRecogntion```
-  
-  ```pip install monotonic```
-  
-  ```pip install pyaudio```
-  
-  ```pip install pyttsx```
 
-  **Testing SpeechRecogntion : **
+**Testing SpeechRecogntion : **
   
   ```python -m speech_recognition```
   
