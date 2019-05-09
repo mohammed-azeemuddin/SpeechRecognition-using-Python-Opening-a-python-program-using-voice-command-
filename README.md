@@ -109,11 +109,11 @@ In the folder, run
    
 ```speak_here_first.py```
    
-   (Image)
+   ![](images/out1.png)
 
    Say "open hello world" in the mic , the script then runs ```hello_world.py```  through your voice and you will hear a male-voice speaking something and then the program exits.
    
-   (Image)
+   ![](images/out2.png)
    
 ## Making modifications:
 
@@ -121,27 +121,27 @@ In the folder, run
    
    If you want your program to execute then change the line to the name of the program  you want it to open . (Make sure it is in the same directory as speak_here_first.py or else provide  full path to the filename in your system)
    
-   (Image)
+   ![](images/speak_first_1.png)
 
    > In hello_world.py
    
    If you want your program to speak anything else rather than the default output,
    you can change the text in it to any other string of your choice.
    
-   (Image)
+   ![](images/hello_world1.png)
    
    >In hello_world.py
    
    You can choose a different voice by un-commenting the second
    section of the program.
    
-   (Image)
+   ![](images/hello_world2.png)
    
    >In hello_world.py
    
    You can change the voice to female by removing the comments in the 
    third section.
    
-   (Image)
+  ![](images/hello_world3.png)
 
 
