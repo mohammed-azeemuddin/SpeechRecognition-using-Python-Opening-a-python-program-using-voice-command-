@@ -21,13 +21,13 @@ Opens a python program using your custom voice command
  
   **Requirements installation:**
 
-	pip install SpeechRecogntion
+	```pip install SpeechRecogntion```
      
-    	pip install monotonic
+    	```pip install monotonic```
   
-    	pip install pyaudio
+    	```pip install pyaudio```
   
-     	pip install pyttsx
+     	```pip install pyttsx```
 
 
 **Testing SpeechRecogntion : **
