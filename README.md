@@ -1,7 +1,7 @@
 # SpeechRecognition-using-Python (Opening-a-python-program-using-voice-command)
 Opens a python program using your custom voice command
 
-### Windows:
+## Windows:
 
   **Python 3.3+ :** 
 
@@ -21,20 +21,23 @@ Opens a python program using your custom voice command
  
   **Requirements installation:**
 
-	```pip install SpeechRecogntion```
+```pip install SpeechRecogntion```
      
-    	```pip install monotonic```
+
+```pip install monotonic```
   
-    	```pip install pyaudio```
-  
-     	```pip install pyttsx```
+
+```pip install pyaudio```
+
+     	
+```pip install pyttsx```
 
 
 **Testing SpeechRecogntion : **
   
   ```python -m speech_recognition```
   
-### Linux:
+## Linux:
 
  **Python 3.3+ :**
  
@@ -42,14 +45,16 @@ Opens a python program using your custom voice command
 
  1.SpeechRecognition:
  
-	 ```pip3 install SpeechRecognition```
+ 
+ ```pip3 install SpeechRecognition```
 		
   (OR)
 
 Otherwise, download the source distribution from PyPI, and extract the archive.
 In the folder, run 
  
-	```python3 setup.py install.```
+ 
+ ```python3 setup.py install.```
 
 2.Pyaudio:
 	
@@ -99,11 +104,11 @@ In the folder, run
 ```python -m speech_recognition```
  
  
- ### Running the program:
+ ## Running the program:
    
    From the downloaded /cloned repo directory , open and execute      
    
-   ```speak_here_first.py```
+```speak_here_first.py```
    
    (Image)
 
@@ -111,7 +116,7 @@ In the folder, run
    
    (Image)
    
-### Making modifications:**
+## Making modifications:**
 
    > In speak_here_first.py
    
